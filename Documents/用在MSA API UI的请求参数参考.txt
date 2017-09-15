@@ -1,0 +1,15 @@
+{
+  "ApiKey": "euet20170818134831272825",
+  "ApiOuterName": "FxGetOrder",
+  "RequestBody": {"Id":1},
+  "Sign": "603a1bf89474301755e9cee5436f17199617be1e",
+  "Timestamp": "2017-08-18 07:18:49"
+}
+
+{
+  "ApiKey": "euet20170818134831272825",
+  "ApiOuterName": "FxGetOrder",
+  "RequestBody": {"Id":1},
+  "Sign": "db1eedd71bba297d072851465c7d64f514ced98a",
+  "Timestamp": "2017-08-18 07:38:14"
+}

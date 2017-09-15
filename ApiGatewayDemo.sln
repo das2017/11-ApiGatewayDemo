@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{27DEFB51-8E15-43D3-BF1E-9E6DEBB5EB00}"
+	ProjectSection(SolutionItems) = preProject
+		References\Newtonsoft.Json.dll = References\Newtonsoft.Json.dll
+		References\Newtonsoft.Json.xml = References\Newtonsoft.Json.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGatewayDemo.Client", "ApiGatewayDemo.Client\ApiGatewayDemo.Client.csproj", "{98FD20DF-A481-451C-A9C1-985F6C83231F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{4259264D-D8DE-44B8-B4E2-5C060EB965DF}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\ApiGateway契约说明文档.chm = Documents\ApiGateway契约说明文档.chm
+		Documents\用在MSA API UI的请求参数参考.txt = Documents\用在MSA API UI的请求参数参考.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FD20DF-A481-451C-A9C1-985F6C83231F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FD20DF-A481-451C-A9C1-985F6C83231F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FD20DF-A481-451C-A9C1-985F6C83231F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FD20DF-A481-451C-A9C1-985F6C83231F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
