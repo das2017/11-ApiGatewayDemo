@@ -3,10 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{27DEFB51-8E15-43D3-BF1E-9E6DEBB5EB00}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceDll", "ReferenceDll", "{27DEFB51-8E15-43D3-BF1E-9E6DEBB5EB00}"
 	ProjectSection(SolutionItems) = preProject
 		References\Newtonsoft.Json.dll = References\Newtonsoft.Json.dll
 		References\Newtonsoft.Json.xml = References\Newtonsoft.Json.xml
+		ReferenceDll\Readme.txt = ReferenceDll\Readme.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGatewayDemo.Client", "ApiGatewayDemo.Client\ApiGatewayDemo.Client.csproj", "{98FD20DF-A481-451C-A9C1-985F6C83231F}"
